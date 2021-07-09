@@ -1,0 +1,25 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "add": "^2.0.6",
+    "ejs": "^3.1.6",
+    "eslint": "^7.30.0",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.1.15",
+    "googleapis": "^81.0.0",
+    "or": "^0.2.0",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
