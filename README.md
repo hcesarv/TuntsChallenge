@@ -1,6 +1,9 @@
 # TuntsChallenge
 
-How to run the application
+This project was part of my internship interview with Tunts Corp. It consists of editing a Google Spreadsheet using its API. I've done it in TypeScript.
+
+
+# How to run the application
 
 To run this application usign node.js, run <npm install googleapis@39 --save>To create a project and enable an API, refer to Create a project and enable the API
 After that, create a project and enable an API on Google Cloud Platform, follow this link: https://developers.google.com/workspace/guides/create-project
